@@ -1,5 +1,15 @@
 # Awesome Tools
 
+Listas de ferramentas que eu recomendo para quem estiver começando a programar e que não costumam falar sobre (ao menos não o suficiente)
+
+- [Awesome Tools](#awesome-tools)
+  - [Iuricode repos](#iuricode-repos)
+  - [Fontes](#fontes)
+  - [Diagramas e desenhos](#diagramas-e-desenhos)
+  - [Pomodoro](#pomodoro)
+  - [Documentações](#documentações)
+  - [Terminal](#terminal)
+
 ## Iuricode repos
 
 Aqui estão alguns dos repositórios que eu uso com certa frequência, no [perfil dele](https://github.com/iuricode?tab=repositories) você pode encontrar mais repositórios úteis para vagas de empregos e ferramentas de frontend
