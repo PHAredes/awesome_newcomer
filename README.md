@@ -43,6 +43,8 @@ Aqui estão alguns dos repositórios que eu uso com certa frequência, no [perfi
 
 - [devdocs.io](https://devdocs.io/) - agregador de Documentações open source, funciona como webapp e offline
 - [Awesome](https://github.com/sindresorhus/awesome) - uma [awesome list](https://github.com/topics/awesome-list) de awesome lists
+- [Markdown no Discord](https://support.discord.com/hc/pt-br/articles/210298617-Markdown-de-Texto-101-Formata%C3%A7%C3%A3o-no-chat-Negrito-it%C3%A1lico-sublinhado-#h_01H2S3XE538ZQ6VKGAN778T0KQ) - guia com o dialeto Markdown usado no Discord; é bem reduzido em comparação ao [CommonMark Spec](https://spec.commonmark.org/)
+- [Github Flavored Markdown](https://github.github.com/gfm/#what-is-github-flavored-markdown-) - Versão extendida do Markdown, usada no Github e afins
 
 ## Ferramentas de teste
 
