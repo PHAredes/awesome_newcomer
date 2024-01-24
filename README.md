@@ -8,6 +8,7 @@ Listas de ferramentas que eu recomendo para quem estiver começando a programar 
   - [Diagramas e desenhos](#diagramas-e-desenhos)
   - [Pomodoro](#pomodoro)
   - [Documentações](#documentações)
+  - [Ferramentas de teste](#ferramentas-de-teste)
   - [Terminal](#terminal)
   - [Distro Linux](#distro-linux)
 
@@ -42,6 +43,11 @@ Aqui estão alguns dos repositórios que eu uso com certa frequência, no [perfi
 
 - [devdocs.io](https://devdocs.io/) - agregador de Documentações open source, funciona como webapp e offline
 - [Awesome](https://github.com/sindresorhus/awesome) - uma [awesome list](https://github.com/topics/awesome-list) de awesome lists
+
+## Ferramentas de teste
+
+- [bruno](https://www.usebruno.com/) - API Client + CLI, pode ser versionado com Git e permite scripts pré e pós requisição; fácil integração com Node. Uma boa alternativa a Postman e Insomnia
+- [HTTPie](https://httpie.io/) - também possui um API Client, mas é mais focado na linha de comando; embora seja uma alternativa razoável ao Postman, HTTPie brilha na linha de comando e é uma ótima alternativa a cUrl. É mais framework agnostic que o bruno
 
 ## Terminal
 
