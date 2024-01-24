@@ -54,4 +54,4 @@ Aqui estão alguns dos repositórios que eu uso com certa frequência, no [perfi
 ## Distro Linux
 
 - [Pop!_OS](https://pop.system76.com/) - é como um Ubuntu que não fica no seu caminho
-- [Linux Mint](https://www.linuxmint.com/) - uma distro recomendada para quem está iniciando a usar Linux; é intuitiva e parece o bastante com Windows para dificultar as coisas
+- [Linux Mint](https://www.linuxmint.com/) - uma distro recomendada para quem está iniciando a usar Linux; é intuitiva e parece o bastante com Windows para não dificultar as coisas
