@@ -40,6 +40,7 @@ Aqui estão alguns dos repositórios que eu uso com certa frequência, no [perfi
 ## Documentações
 
 - [devdocs.io](https://devdocs.io/) - agregador de Documentações open source, funciona como webapp e offline
+- [Awesome](https://github.com/sindresorhus/awesome) - uma [awesome list](https://github.com/topics/awesome-list) de awesome lists
 
 ## Terminal
 
