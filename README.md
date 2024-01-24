@@ -9,6 +9,7 @@ Listas de ferramentas que eu recomendo para quem estiver começando a programar 
   - [Pomodoro](#pomodoro)
   - [Documentações](#documentações)
   - [Terminal](#terminal)
+  - [Distro Linux](#distro-linux)
 
 ## Iuricode repos
 
@@ -49,3 +50,8 @@ Aqui estão alguns dos repositórios que eu uso com certa frequência, no [perfi
 - [Chocolatey](https://chocolatey.org/) - outro gerenciador de pacotes, com versão open source (Apache 2.0), instala globalmente, contém mais pacotes e usa scripts de powershell
 - [Oh My Posh](https://ohmyposh.dev/) - engine de temas para qualquer shell
 - [Oh My Posh Themes](https://ohmyposh.dev/docs/themes/) - temas pré-prontos para o terminal
+
+## Distro Linux
+
+- [Pop!_OS](https://pop.system76.com/) - é como um Ubuntu que não fica no seu caminho
+- [Linux Mint](https://www.linuxmint.com/) - uma distro recomendada para quem está iniciando a usar Linux; é intuitiva e parece o bastante com Windows para dificultar as coisas
